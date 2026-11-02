@@ -1,4 +1,4 @@
-# Khalid | Structural BIM Engineer
+# Khalid Atef Mohammed | Structural BIM Engineer
 
 Civil engineer with ~4 years of experience on large-scale residential and commercial projects in Giza, Egypt. I deliver structural BIM models and coordinated documentation using **Revit**, **Navisworks**, and **AutoCAD**.
 
