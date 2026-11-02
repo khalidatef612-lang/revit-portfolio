@@ -33,7 +33,6 @@ Reinforced-concrete administration building plus a steel-frame factory building-
 ![School](02-school/cover.png)
 
 Multi-storey RC school with curved slab edges and full rebar detailing-with flat slab structural system.
-<img width="861" height="112" alt="image" src="https://github.com/user-attachments/assets/2a9e7f42-8acc-41d5-b3ba-e1a1d41399bb" />
 
 **My role:** 3D structural model, schedule sheets, shop drawings, rebar quantities, Navisworks clash detection.
 **Tools:** Revit, Navisworks· AutoCAD
@@ -43,7 +42,6 @@ Multi-storey RC school with curved slab edges and full rebar detailing-with flat
 ![Villa](03-villa/cover.png)
 
 [Reinforced-concrete villa, from footings to staircase-flat slab structural system.
-<img width="649" height="112" alt="image" src="https://github.com/user-attachments/assets/59dc17cb-dac7-4b42-89fb-e527be48d141" />
 
 **My role:** 3D structural model, schedule sheets, shop drawings, rebar quantities, Navisworks clash detection.
 **Tools:** Revit, Navisworks
