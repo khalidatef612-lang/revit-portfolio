@@ -29,7 +29,7 @@ Reinforced-concrete administration building plus a steel-frame factory building-
 **Tools:** Revit, Navisworks· AutoCAD
 📄 [Drawing set (PDF)](01-marble-factory/drawings.pdf)
 
-### 02 | School Project
+### 02 | School 
 ![School](02-school/cover.png)
 
 Multi-storey RC school with curved slab edges and full rebar detailing-with flat slab structural system.
