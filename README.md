@@ -27,7 +27,7 @@ Reinforced-concrete administration building plus a steel-frame factory building-
 
 **My role:** 3D structural model, schedule sheets, shop drawings, rebar quantities, Navisworks clash detection.
 **Tools:** Revit, Navisworks· AutoCAD
-📄 [Drawing set (PDF)](01-marble-factory/drawings.pdf)
+📄 [Drawing set (PDF)](01-marble-factory/Drawings.pdf)
 
 ### 02 | School 
 ![School](02-school/cover.png)
